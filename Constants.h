@@ -1,0 +1,10 @@
+#define INFOLEN 60
+#define PROLEN 50
+#define DATALEN 300
+#define WLEN 15 
+#define ADDRLEN 32
+#define PURLEN 500
+#define NLEN 20
+#define IDLEN 5
+#define CATLEN 15
+#define PHLEN 15
